@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Simon Zuzek</title>
+    <link>https://simonzuzek.github.io/project/</link>
+      <atom:link href="https://simonzuzek.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://simonzuzek.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://simonzuzek.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Amazon Entry on Amazon Marketplace</title>
+      <link>https://simonzuzek.github.io/project/amazon_entry/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://simonzuzek.github.io/project/amazon_entry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amenities and Job Mobility over the Life Cycle</title>
+      <link>https://simonzuzek.github.io/project/amenities/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://simonzuzek.github.io/project/amenities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Short-Time Work: Screening for Jobs at Risk</title>
+      <link>https://simonzuzek.github.io/project/optimal_shorttimework/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://simonzuzek.github.io/project/optimal_shorttimework/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
